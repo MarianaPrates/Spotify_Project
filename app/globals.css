@@ -25,6 +25,7 @@ body {
     text-wrap: balance;
   }
 }
+<<<<<<< HEAD
 
 .scrollbar-hide {
   -ms-overflow-style: none;
@@ -42,3 +43,5 @@ body {
   background: #52525b;
   border-radius: 2px;
 }
+=======
+>>>>>>> 08a8521488c7a9e3c2e26669f326435500292dc5

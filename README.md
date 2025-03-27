@@ -11,7 +11,11 @@ yarn dev
 # or
 pnpm dev
 # or
+<<<<<<< HEAD
 bun dev 
+=======
+bun dev
+>>>>>>> 08a8521488c7a9e3c2e26669f326435500292dc5
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
